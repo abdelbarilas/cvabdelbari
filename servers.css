@@ -1,0 +1,15 @@
+:root{
+    --primarycolor: #d41313 ;
+    --sicondarycolor: #ad1071cb;
+    --lightcolor: #ffffff;
+    --bgcolor-1: #171a1c;
+    --bgcolor-2: #22282a;
+    --padding: 8%;
+}
+
+*{
+    background-color: #000000e3;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
